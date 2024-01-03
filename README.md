@@ -160,11 +160,11 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![1](https://github.com/SVENGADAKRISHNAN/event-registration/assets/147473084/3c88b20d-9b03-4747-aae4-5a086211833e)
+![1](https://github.com/SVENGADAKRISHNAN/event-registration/assets/147473084/c7108620-fe9f-4882-beaf-1533da44cccd)
 
-![2](https://github.com/SVENGADAKRISHNAN/event-registration/assets/147473084/22084b6a-df39-4a4a-8435-7c58880109dc)
+![2](https://github.com/SVENGADAKRISHNAN/event-registration/assets/147473084/7a161f07-c758-4826-adc2-47413c9b2f75)
 
-![3](https://github.com/SVENGADAKRISHNAN/event-registration/assets/147473084/2b61e124-698d-4d95-91be-fe9133459bd7)
+![3](https://github.com/SVENGADAKRISHNAN/event-registration/assets/147473084/4c5b6176-f753-469a-a103-75fdf238fc29)
 
 ## Result:
 The program to design , develop adn deploy a web application for event registration is completed successfully.
